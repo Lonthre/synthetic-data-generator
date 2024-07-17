@@ -20,5 +20,5 @@ https://github.com/NvRTX/UnrealEngine/tree/NvRTX_Caustics-5.2?tab=readme-ov-file
 
 ### ADDITIONAL FILES
 
-A sample dataset and UE project **WITH** asset packs can be found here:<br>
+A sample dataset can be found here:<br>
 https://liveuniba-my.sharepoint.com/:f:/g/personal/kubirita1_uniba_sk/EqV3DwfYrjZOmaVNhLgSI2EB-Hd4dPn49mmYmiBR7Z2z-w?e=e2TQHX
